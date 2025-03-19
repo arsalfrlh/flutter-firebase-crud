@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275033034921",
+    "project_id": "userfire-f5cc5",
+    "storage_bucket": "userfire-f5cc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275033034921:android:4006c7afb46dddcce459b8",
+        "android_client_info": {
+          "package_name": "com.example.userfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoITIrwlt7QGjKsq-Uy5zwUKTxfAFHTUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
